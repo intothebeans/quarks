@@ -243,6 +243,7 @@ scpodcast=https://github.com/supercollider-quarks/scpodcast
 SCPyduino=https://github.com/supercollider-quarks/SCPyduino
 SenseWorld=https://github.com/supercollider-quarks/SenseWorld
 Sequencer=https://github.com/supercollider-quarks/Sequencer
+ServerConfigGui=https://github.com/intothebeans/SC-ServerConfigGUI
 ServerOptionsGui=https://github.com/gusano/ServerOptionsGui@tags/0.1
 ServerTools=https://github.com/supercollider-quarks/ServerTools
 ServerView=https://github.com/scztt/ServerView.quark
